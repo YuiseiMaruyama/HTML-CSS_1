@@ -53,3 +53,15 @@
       margin-top: 0;
       font-size: 14px;
   }
+
+  /* section > img */
+.icon{
+    border-radius: 50%;
+    /* border-color: pink;
+    border-width: 5px;
+    border-style: solid; */
+    border:5px solid white;
+    /* box-shadow:  x y ぼかし具合 color*/
+    /* box-shadow: 10px 10px 5px black; */
+    box-shadow: 0px 0px 5px gray;
+}
