@@ -37,6 +37,10 @@
       color: inherit;
   }
 
+  .current{
+      border-bottom: 4px solid royalblue
+  }
+
   header li > a:hover{
       color: royalblue;
   }
@@ -107,4 +111,13 @@ footer p{
     color: lightgray;
     font-size: 14px;
     text-align: right;
+}
+
+.about{
+    width: 400px;
+    margin: 0 auto 60px;
+}
+
+.about p{
+    text-align: left;
 }
