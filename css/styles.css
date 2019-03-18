@@ -68,15 +68,15 @@
 
 .works{
     width:400px;
+    /* margin-left: auto;
+    margin-right: auto; */
+    margin: 60px auto;
+    border-bottom: 1px solid gray;
 }
 
-/* .works h1{
-    text-align: left
+.works > section{
+    margin-bottom: 40px;
 }
-
-.works p{
-    text-align: left
-} */
 
 .works h1,
 .works p{
