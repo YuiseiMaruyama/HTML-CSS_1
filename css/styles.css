@@ -11,13 +11,13 @@
       padding: 10px;
   }
 
-  ul{
+  header ul{
       margin: 0px;
       list-style-type: none;
       padding-left: 0;
   }
 
-  li{
+  header li{
       display: inline-block;
       padding-top: 4px;
       padding-bottom: 4px;
@@ -27,11 +27,11 @@
       font-size: 12px;
   }
 
-  a{
+  header a{
       text-decoration: none;
       color: inherit;
   }
 
-  a:hover{
+  header a:hover{
       color: royalblue;
   }
