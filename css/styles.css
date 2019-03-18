@@ -40,3 +40,16 @@
   header li > a:hover{
       color: royalblue;
   }
+
+  section{
+      text-align: center;
+  }
+
+  section h1{
+      font-weight: normal;
+  }
+
+  section p{
+      margin-top: 0;
+      font-size: 14px;
+  }
